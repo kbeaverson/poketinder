@@ -1,4 +1,4 @@
-import CreateGroupButton from "@/components/custom/createGroupButton";
+import CreateGroupButton from "@/components/custom/CreateGroupButton";
 import Image from "next/image";
 
 export default function Home() {

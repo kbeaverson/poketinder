@@ -17,6 +17,7 @@ export default function CreateGroupButton() {
 
         // TODO: Write to backend (async call to create group in database)
         console.log(`Would write to backend Group ID: ${groupId}`)
+        await new Promise((resolve) => setTimeout(resolve, 1000)) // Simulate async backend call
 
         // Navigate to the new group page
         router.push(`/group/${groupId}`)
