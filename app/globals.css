@@ -128,3 +128,31 @@
     @apply font-mono;
   }
 }
+
+@keyframes mega-aura-spin {
+  to { transform: rotate(360deg); }
+}
+
+.mega-aura {
+  position: relative;
+}
+
+.mega-aura::before {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  border-radius: 50%;
+  background: conic-gradient(
+    from 0deg,
+    #ff0000,
+    #ff8000,
+    #ffff00,
+    #00e000,
+    #00bfff,
+    #8000ff,
+    #ff0000
+  );
+  animation: mega-aura-spin 5s linear infinite;
+  filter: blur(4px);
+  z-index: 0;
+}

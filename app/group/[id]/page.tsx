@@ -1,20 +1,36 @@
 import { PokemonClient } from "pokenode-ts"
+import { getPokemonPool } from "@/lib/pools/champions"
+import { LocalPokemon, LocalPokemonType, Member } from "@/lib/types"
+import PokemonCard from "@/components/custom/PokemonCard"
+import SwipeScreen from "@/components/custom/SwipeScreen"
+import GroupPageClient from "@/components/custom/GroupPageClient"
+import { fetchPokemonByName } from "@/lib/fetch-pokemon"
 
 type Props = {
-    params: { id: string }
+    params: { 
+        id: string 
+    }
+    searchParams: {
+        pool?: string
+    }
 }
 
-export default async function GroupPage({ params }: Props) {
+export default async function GroupPage({ params, searchParams }: Props) {
     const { id } = await params
+    const { pool } = await searchParams
+    const poolName = pool || "CHAMPIONS_MA"
+    const pokemonPool: LocalPokemon[] = await import(`@/public/lib/pools/${poolName.toLowerCase()}.json`).then(m => m.default)
 
-    const pokeapi = new PokemonClient()
-    const pokemon = await pokeapi.getPokemonSpeciesByName("garchomp")
-        .then((data) => console.log(data.id, data.varieties))
-    
     return (
-        <div>
+        <div className="self-center justify-around">
             <h1>Group ID: { id }</h1>
             {/* Fetch and display group details using the ID */}
+            <p>Pool Name: { poolName }</p>
+            {/* Display Pokémon from the pool */}
+            {/* {pokemonPool.map((pokemon) => (
+                <PokemonCard key={pokemon.pokemonId} pokemon={pokemon} />
+            ))} */}
+            <GroupPageClient groupId={id} pokemonPool={pokemonPool} />
         </div>
     )
 }

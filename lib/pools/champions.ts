@@ -1,4 +1,4 @@
-export const CHAMPIONS_MA : String[] = [
+export const CHAMPIONS_MA: string[] = [
     "venusaur",
     "charizard",
     "blastoise",
@@ -157,7 +157,7 @@ export const CHAMPIONS_MA : String[] = [
     "sandaconda",
     "polteageist",
     "hatterene",
-    "mr. rime",
+    "mr-rime",
     "runerigus",
     "alcremie", // All forms one card
     "morpeko",
@@ -186,3 +186,17 @@ export const CHAMPIONS_MA : String[] = [
     "archaludon",
     "hydrapple",
 ]
+
+export const POKEMON_POOLS = {
+    CHAMPIONS_MA,
+} as const
+
+export type PokemonPoolName = keyof typeof POKEMON_POOLS
+
+export function getPokemonPool(poolName: string): string[] {
+    if (poolName in POKEMON_POOLS) {
+        return POKEMON_POOLS[poolName as PokemonPoolName]
+    }
+
+    return CHAMPIONS_MA
+}

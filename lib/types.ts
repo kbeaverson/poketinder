@@ -3,25 +3,26 @@ export type Group = {
     name: string
     createdAt: Date
     members: Member[]
-    pokemonPool: Pokemon[]
+    pokemonPool: LocalPokemon[]
 }
 
 export type Member = {
     memberId: string
     name: string
     groupId: string
-    likes: Pokemon[]
-    superLike: Pokemon | null
+    likes: [boolean, LocalPokemon][]
+    superLike: LocalPokemon | null
 }
 
-export type Pokemon = {
+export type LocalPokemon = {
     pokemonId: string
     name: string
-    type: [PokemonType] | [PokemonType, PokemonType]
+    type: [LocalPokemonType] | [LocalPokemonType, LocalPokemonType]
     imageUrl: string
+    megas?: LocalPokemon[] // For mega evolutions, if applicable
 }
 
-export enum PokemonType {
+export enum LocalPokemonType {
     normal = "normal",
     fire = "fire",
     water = "water",
