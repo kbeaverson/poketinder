@@ -3,6 +3,7 @@
 import { LocalPokemon, Member } from "@/lib/types";
 import { useState } from "react";
 import SwipeScreen from "./SwipeScreen";
+import ResultsScreen from "./ResultsScreen";
 
 type GroupPageClientProps = {
     groupId: string,
@@ -19,6 +20,10 @@ export default function GroupPageClient({ groupId, pokemonPool}: GroupPageClient
     })
 
     function handleSwipe(pokemon: LocalPokemon, isLike: boolean) {
+        // Ensure we don't add duplicate likes for the same pokemon
+        if (member.likes.some(l => l[1].pokemonId === pokemon.pokemonId)) {
+            return;
+        }
         setMember(prev => ({
             ...prev,
             likes: [...prev.likes, [isLike, pokemon]]
@@ -36,6 +41,7 @@ export default function GroupPageClient({ groupId, pokemonPool}: GroupPageClient
 
     return (
         <div>
+            <ResultsScreen members={[member]} />
             <SwipeScreen
                 pool={pokemonPool}
                 memberId={member.memberId}

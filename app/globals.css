@@ -152,7 +152,7 @@
     #8000ff,
     #ff0000
   );
-  animation: mega-aura-spin 5s linear infinite;
+  animation: mega-aura-spin 7s linear infinite;
   filter: blur(4px);
   z-index: 0;
 }

@@ -6,7 +6,7 @@
       "grass",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
     "megas": [
       {
         "pokemonId": "10033",
@@ -15,7 +15,7 @@
           "grass",
           "poison"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10033.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png"
       }
     ]
   },
@@ -26,7 +26,7 @@
       "fire",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "megas": [
       {
         "pokemonId": "10034",
@@ -35,7 +35,7 @@
           "fire",
           "dragon"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10034.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png"
       },
       {
         "pokemonId": "10035",
@@ -44,7 +44,7 @@
           "fire",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10035.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png"
       }
     ]
   },
@@ -54,7 +54,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
     "megas": [
       {
         "pokemonId": "10036",
@@ -62,7 +62,7 @@
         "type": [
           "water"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10036.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png"
       }
     ]
   },
@@ -73,7 +73,7 @@
       "bug",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "megas": [
       {
         "pokemonId": "10090",
@@ -82,7 +82,7 @@
           "bug",
           "poison"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10090.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png"
       }
     ]
   },
@@ -93,7 +93,7 @@
       "normal",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "megas": [
       {
         "pokemonId": "10073",
@@ -102,7 +102,7 @@
           "normal",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10073.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png"
       }
     ]
   },
@@ -112,7 +112,7 @@
     "type": [
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
   },
   {
     "pokemonId": "25",
@@ -120,7 +120,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
   },
   {
     "pokemonId": "26",
@@ -128,7 +128,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
   },
   {
     "pokemonId": "10100",
@@ -137,7 +137,7 @@
       "electric",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10100.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png"
   },
   {
     "pokemonId": "36",
@@ -145,7 +145,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/36.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
     "megas": [
       {
         "pokemonId": "10278",
@@ -154,7 +154,7 @@
           "fairy",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10278.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10278.png"
       }
     ]
   },
@@ -164,7 +164,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/38.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
   },
   {
     "pokemonId": "10104",
@@ -173,7 +173,7 @@
       "ice",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10104.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png"
   },
   {
     "pokemonId": "59",
@@ -181,7 +181,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/59.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
   },
   {
     "pokemonId": "10230",
@@ -190,7 +190,7 @@
       "fire",
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10230.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png"
   },
   {
     "pokemonId": "65",
@@ -198,7 +198,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/65.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
     "megas": [
       {
         "pokemonId": "10037",
@@ -206,7 +206,7 @@
         "type": [
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10037.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10037.png"
       }
     ]
   },
@@ -216,7 +216,7 @@
     "type": [
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/68.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
   },
   {
     "pokemonId": "71",
@@ -225,7 +225,7 @@
       "grass",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/71.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
     "megas": [
       {
         "pokemonId": "10279",
@@ -234,7 +234,7 @@
           "grass",
           "poison"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10279.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10279.png"
       }
     ]
   },
@@ -245,7 +245,7 @@
       "water",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/80.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
     "megas": [
       {
         "pokemonId": "10071",
@@ -254,7 +254,7 @@
           "water",
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10071.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png"
       }
     ]
   },
@@ -265,7 +265,7 @@
       "poison",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10165.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10165.png"
   },
   {
     "pokemonId": "94",
@@ -274,7 +274,7 @@
       "ghost",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "megas": [
       {
         "pokemonId": "10038",
@@ -283,7 +283,7 @@
           "ghost",
           "poison"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10038.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png"
       }
     ]
   },
@@ -293,7 +293,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/115.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "megas": [
       {
         "pokemonId": "10039",
@@ -301,7 +301,7 @@
         "type": [
           "normal"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10039.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10039.png"
       }
     ]
   },
@@ -312,7 +312,7 @@
       "water",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/121.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "megas": [
       {
         "pokemonId": "10280",
@@ -321,7 +321,7 @@
           "water",
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10280.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10280.png"
       }
     ]
   },
@@ -331,7 +331,7 @@
     "type": [
       "bug"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/127.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
     "megas": [
       {
         "pokemonId": "10040",
@@ -340,7 +340,7 @@
           "bug",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10040.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png"
       }
     ]
   },
@@ -350,7 +350,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/128.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
   },
   {
     "pokemonId": "10250",
@@ -358,7 +358,7 @@
     "type": [
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10250.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10250.png"
   },
   {
     "pokemonId": "10251",
@@ -367,7 +367,7 @@
       "fighting",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10251.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10251.png"
   },
   {
     "pokemonId": "10252",
@@ -376,7 +376,7 @@
       "fighting",
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10252.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10252.png"
   },
   {
     "pokemonId": "130",
@@ -385,7 +385,7 @@
       "water",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/130.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
     "megas": [
       {
         "pokemonId": "10041",
@@ -394,7 +394,7 @@
           "water",
           "dark"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10041.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png"
       }
     ]
   },
@@ -404,7 +404,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/132.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
   },
   {
     "pokemonId": "134",
@@ -412,7 +412,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/134.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
   },
   {
     "pokemonId": "135",
@@ -420,7 +420,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/135.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
   },
   {
     "pokemonId": "136",
@@ -428,7 +428,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/136.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
   },
   {
     "pokemonId": "142",
@@ -437,7 +437,7 @@
       "rock",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/142.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
     "megas": [
       {
         "pokemonId": "10042",
@@ -446,7 +446,7 @@
           "rock",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10042.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png"
       }
     ]
   },
@@ -456,7 +456,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/143.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
   },
   {
     "pokemonId": "149",
@@ -465,7 +465,7 @@
       "dragon",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/149.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
     "megas": [
       {
         "pokemonId": "10281",
@@ -474,7 +474,7 @@
           "dragon",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10281.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10281.png"
       }
     ]
   },
@@ -484,7 +484,7 @@
     "type": [
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/154.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
     "megas": [
       {
         "pokemonId": "10282",
@@ -493,7 +493,7 @@
           "grass",
           "fairy"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10282.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10282.png"
       }
     ]
   },
@@ -503,7 +503,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/157.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
   },
   {
     "pokemonId": "10233",
@@ -512,7 +512,7 @@
       "fire",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10233.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png"
   },
   {
     "pokemonId": "160",
@@ -520,7 +520,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/160.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
     "megas": [
       {
         "pokemonId": "10283",
@@ -529,7 +529,7 @@
           "water",
           "dragon"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10283.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10283.png"
       }
     ]
   },
@@ -540,7 +540,7 @@
       "bug",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/168.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
   },
   {
     "pokemonId": "181",
@@ -548,7 +548,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/181.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
     "megas": [
       {
         "pokemonId": "10045",
@@ -557,7 +557,7 @@
           "electric",
           "dragon"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10045.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png"
       }
     ]
   },
@@ -568,7 +568,7 @@
       "water",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/184.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
   },
   {
     "pokemonId": "186",
@@ -576,7 +576,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/186.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
   },
   {
     "pokemonId": "196",
@@ -584,7 +584,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/196.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
   },
   {
     "pokemonId": "197",
@@ -592,7 +592,7 @@
     "type": [
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/197.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
   },
   {
     "pokemonId": "199",
@@ -601,7 +601,7 @@
       "water",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/199.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
   },
   {
     "pokemonId": "10172",
@@ -610,7 +610,7 @@
       "poison",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10172.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10172.png"
   },
   {
     "pokemonId": "205",
@@ -619,7 +619,7 @@
       "bug",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/205.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
   },
   {
     "pokemonId": "208",
@@ -628,7 +628,7 @@
       "steel",
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/208.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
     "megas": [
       {
         "pokemonId": "10072",
@@ -637,7 +637,7 @@
           "steel",
           "ground"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10072.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png"
       }
     ]
   },
@@ -648,7 +648,7 @@
       "bug",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/212.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
     "megas": [
       {
         "pokemonId": "10046",
@@ -657,7 +657,7 @@
           "bug",
           "steel"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10046.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png"
       }
     ]
   },
@@ -668,7 +668,7 @@
       "bug",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/214.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
     "megas": [
       {
         "pokemonId": "10047",
@@ -677,7 +677,7 @@
           "bug",
           "fighting"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10047.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10047.png"
       }
     ]
   },
@@ -688,7 +688,7 @@
       "steel",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/227.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
     "megas": [
       {
         "pokemonId": "10284",
@@ -697,7 +697,7 @@
           "steel",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10284.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10284.png"
       }
     ]
   },
@@ -708,7 +708,7 @@
       "dark",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/229.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
     "megas": [
       {
         "pokemonId": "10048",
@@ -717,7 +717,7 @@
           "dark",
           "fire"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10048.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png"
       }
     ]
   },
@@ -728,7 +728,7 @@
       "rock",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/248.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
     "megas": [
       {
         "pokemonId": "10049",
@@ -737,7 +737,7 @@
           "rock",
           "dark"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10049.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png"
       }
     ]
   },
@@ -748,7 +748,7 @@
       "water",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/279.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
   },
   {
     "pokemonId": "282",
@@ -757,7 +757,7 @@
       "psychic",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/282.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
     "megas": [
       {
         "pokemonId": "10051",
@@ -766,7 +766,7 @@
           "psychic",
           "fairy"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10051.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
       }
     ]
   },
@@ -777,7 +777,7 @@
       "dark",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/302.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
     "megas": [
       {
         "pokemonId": "10066",
@@ -786,7 +786,7 @@
           "dark",
           "ghost"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10066.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10066.png"
       }
     ]
   },
@@ -797,7 +797,7 @@
       "steel",
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/306.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
     "megas": [
       {
         "pokemonId": "10053",
@@ -805,7 +805,7 @@
         "type": [
           "steel"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10053.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png"
       }
     ]
   },
@@ -816,7 +816,7 @@
       "fighting",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/308.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
     "megas": [
       {
         "pokemonId": "10054",
@@ -825,7 +825,7 @@
           "fighting",
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10054.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png"
       }
     ]
   },
@@ -835,7 +835,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/310.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
     "megas": [
       {
         "pokemonId": "10055",
@@ -843,7 +843,7 @@
         "type": [
           "electric"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10055.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png"
       }
     ]
   },
@@ -854,7 +854,7 @@
       "water",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/319.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
     "megas": [
       {
         "pokemonId": "10070",
@@ -863,7 +863,7 @@
           "water",
           "dark"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10070.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png"
       }
     ]
   },
@@ -874,7 +874,7 @@
       "fire",
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/323.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
     "megas": [
       {
         "pokemonId": "10087",
@@ -883,7 +883,7 @@
           "fire",
           "ground"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10087.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10087.png"
       }
     ]
   },
@@ -893,7 +893,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/324.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
   },
   {
     "pokemonId": "334",
@@ -902,7 +902,7 @@
       "dragon",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/334.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
     "megas": [
       {
         "pokemonId": "10067",
@@ -911,7 +911,7 @@
           "dragon",
           "fairy"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10067.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png"
       }
     ]
   },
@@ -921,7 +921,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/350.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
   },
   {
     "pokemonId": "351",
@@ -929,7 +929,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/351.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png"
   },
   {
     "pokemonId": "10013",
@@ -937,7 +937,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10013.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10013.png"
   },
   {
     "pokemonId": "10014",
@@ -945,7 +945,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10014.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10014.png"
   },
   {
     "pokemonId": "10015",
@@ -953,7 +953,7 @@
     "type": [
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10015.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10015.png"
   },
   {
     "pokemonId": "354",
@@ -961,7 +961,7 @@
     "type": [
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/354.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
     "megas": [
       {
         "pokemonId": "10056",
@@ -969,7 +969,7 @@
         "type": [
           "ghost"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10056.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png"
       }
     ]
   },
@@ -979,7 +979,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/358.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
     "megas": [
       {
         "pokemonId": "10306",
@@ -988,7 +988,7 @@
           "psychic",
           "steel"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10306.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10306.png"
       }
     ]
   },
@@ -998,7 +998,7 @@
     "type": [
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/359.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
     "megas": [
       {
         "pokemonId": "10057",
@@ -1006,7 +1006,7 @@
         "type": [
           "dark"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10057.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png"
       }
     ]
   },
@@ -1016,7 +1016,7 @@
     "type": [
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/362.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
     "megas": [
       {
         "pokemonId": "10074",
@@ -1024,7 +1024,7 @@
         "type": [
           "ice"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10074.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png"
       }
     ]
   },
@@ -1035,7 +1035,7 @@
       "grass",
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/389.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png"
   },
   {
     "pokemonId": "392",
@@ -1044,7 +1044,7 @@
       "fire",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/392.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
   },
   {
     "pokemonId": "395",
@@ -1053,7 +1053,7 @@
       "water",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/395.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png"
   },
   {
     "pokemonId": "405",
@@ -1061,7 +1061,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/405.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
   },
   {
     "pokemonId": "407",
@@ -1070,7 +1070,7 @@
       "grass",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/407.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png"
   },
   {
     "pokemonId": "409",
@@ -1078,7 +1078,7 @@
     "type": [
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/409.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png"
   },
   {
     "pokemonId": "411",
@@ -1087,7 +1087,7 @@
       "rock",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/411.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
   },
   {
     "pokemonId": "428",
@@ -1095,7 +1095,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/428.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
     "megas": [
       {
         "pokemonId": "10088",
@@ -1104,7 +1104,7 @@
           "normal",
           "fighting"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10088.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10088.png"
       }
     ]
   },
@@ -1115,7 +1115,7 @@
       "ghost",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/442.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
   },
   {
     "pokemonId": "445",
@@ -1124,7 +1124,7 @@
       "dragon",
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/445.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
     "megas": [
       {
         "pokemonId": "10058",
@@ -1133,7 +1133,7 @@
           "dragon",
           "ground"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10058.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png"
       }
     ]
   },
@@ -1144,7 +1144,7 @@
       "fighting",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/448.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
     "megas": [
       {
         "pokemonId": "10059",
@@ -1153,7 +1153,7 @@
           "fighting",
           "steel"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10059.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png"
       }
     ]
   },
@@ -1163,7 +1163,7 @@
     "type": [
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/450.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png"
   },
   {
     "pokemonId": "454",
@@ -1172,7 +1172,7 @@
       "poison",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/454.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
   },
   {
     "pokemonId": "460",
@@ -1181,7 +1181,7 @@
       "grass",
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/460.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
     "megas": [
       {
         "pokemonId": "10060",
@@ -1190,7 +1190,7 @@
           "grass",
           "ice"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10060.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png"
       }
     ]
   },
@@ -1201,7 +1201,7 @@
       "dark",
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/461.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
   },
   {
     "pokemonId": "464",
@@ -1210,7 +1210,7 @@
       "ground",
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/464.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png"
   },
   {
     "pokemonId": "470",
@@ -1218,7 +1218,7 @@
     "type": [
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/470.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png"
   },
   {
     "pokemonId": "471",
@@ -1226,7 +1226,7 @@
     "type": [
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/471.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
   },
   {
     "pokemonId": "472",
@@ -1235,7 +1235,7 @@
       "ground",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/472.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
   },
   {
     "pokemonId": "473",
@@ -1244,7 +1244,7 @@
       "ice",
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/473.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png"
   },
   {
     "pokemonId": "475",
@@ -1253,7 +1253,7 @@
       "psychic",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/475.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
     "megas": [
       {
         "pokemonId": "10068",
@@ -1262,7 +1262,7 @@
           "psychic",
           "fighting"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10068.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png"
       }
     ]
   },
@@ -1273,7 +1273,7 @@
       "ice",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/478.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
     "megas": [
       {
         "pokemonId": "10285",
@@ -1282,7 +1282,7 @@
           "ice",
           "ghost"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10285.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10285.png"
       }
     ]
   },
@@ -1293,7 +1293,7 @@
       "electric",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/479.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
   },
   {
     "pokemonId": "10008",
@@ -1302,7 +1302,7 @@
       "electric",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10008.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10008.png"
   },
   {
     "pokemonId": "10009",
@@ -1311,7 +1311,7 @@
       "electric",
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10009.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10009.png"
   },
   {
     "pokemonId": "10010",
@@ -1320,7 +1320,7 @@
       "electric",
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10010.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10010.png"
   },
   {
     "pokemonId": "10011",
@@ -1329,7 +1329,7 @@
       "electric",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10011.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10011.png"
   },
   {
     "pokemonId": "10012",
@@ -1338,7 +1338,7 @@
       "electric",
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10012.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10012.png"
   },
   {
     "pokemonId": "497",
@@ -1346,7 +1346,7 @@
     "type": [
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/497.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
   },
   {
     "pokemonId": "500",
@@ -1355,7 +1355,7 @@
       "fire",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/500.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "megas": [
       {
         "pokemonId": "10286",
@@ -1364,7 +1364,7 @@
           "fire",
           "fighting"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10286.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10286.png"
       }
     ]
   },
@@ -1374,7 +1374,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/503.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
   },
   {
     "pokemonId": "10236",
@@ -1383,7 +1383,7 @@
       "water",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10236.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png"
   },
   {
     "pokemonId": "505",
@@ -1391,7 +1391,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/505.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
   },
   {
     "pokemonId": "510",
@@ -1399,7 +1399,7 @@
     "type": [
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/510.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
   },
   {
     "pokemonId": "512",
@@ -1407,7 +1407,7 @@
     "type": [
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/512.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png"
   },
   {
     "pokemonId": "514",
@@ -1415,7 +1415,7 @@
     "type": [
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/514.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
   },
   {
     "pokemonId": "516",
@@ -1423,7 +1423,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/516.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
   },
   {
     "pokemonId": "530",
@@ -1432,7 +1432,7 @@
       "ground",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/530.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
     "megas": [
       {
         "pokemonId": "10287",
@@ -1441,7 +1441,7 @@
           "ground",
           "steel"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10287.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10287.png"
       }
     ]
   },
@@ -1451,7 +1451,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/531.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
     "megas": [
       {
         "pokemonId": "10069",
@@ -1460,7 +1460,7 @@
           "normal",
           "fairy"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10069.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png"
       }
     ]
   },
@@ -1470,7 +1470,7 @@
     "type": [
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/534.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
   },
   {
     "pokemonId": "547",
@@ -1479,7 +1479,7 @@
       "grass",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/547.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
   },
   {
     "pokemonId": "553",
@@ -1488,7 +1488,7 @@
       "ground",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/553.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
   },
   {
     "pokemonId": "563",
@@ -1496,7 +1496,7 @@
     "type": [
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/563.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
   },
   {
     "pokemonId": "569",
@@ -1504,7 +1504,7 @@
     "type": [
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/569.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
   },
   {
     "pokemonId": "571",
@@ -1512,7 +1512,7 @@
     "type": [
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/571.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
   },
   {
     "pokemonId": "10239",
@@ -1521,7 +1521,7 @@
       "normal",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10239.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png"
   },
   {
     "pokemonId": "579",
@@ -1529,7 +1529,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/579.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
   },
   {
     "pokemonId": "584",
@@ -1537,7 +1537,7 @@
     "type": [
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/584.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
   },
   {
     "pokemonId": "587",
@@ -1546,7 +1546,7 @@
       "electric",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/587.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
   },
   {
     "pokemonId": "609",
@@ -1555,7 +1555,7 @@
       "ghost",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/609.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
     "megas": [
       {
         "pokemonId": "10291",
@@ -1564,7 +1564,7 @@
           "ghost",
           "fire"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10291.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10291.png"
       }
     ]
   },
@@ -1574,7 +1574,7 @@
     "type": [
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/614.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png"
   },
   {
     "pokemonId": "618",
@@ -1583,7 +1583,7 @@
       "ground",
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/618.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
   },
   {
     "pokemonId": "10180",
@@ -1592,7 +1592,7 @@
       "ground",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10180.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
   },
   {
     "pokemonId": "623",
@@ -1601,7 +1601,7 @@
       "ground",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/623.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
     "megas": [
       {
         "pokemonId": "10313",
@@ -1610,7 +1610,7 @@
           "ground",
           "ghost"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10313.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10313.png"
       }
     ]
   },
@@ -1621,7 +1621,7 @@
       "dark",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/635.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png"
   },
   {
     "pokemonId": "637",
@@ -1630,7 +1630,7 @@
       "bug",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/637.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
   },
   {
     "pokemonId": "652",
@@ -1639,7 +1639,7 @@
       "grass",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/652.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
     "megas": [
       {
         "pokemonId": "10292",
@@ -1648,7 +1648,7 @@
           "grass",
           "fighting"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10292.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10292.png"
       }
     ]
   },
@@ -1659,7 +1659,7 @@
       "fire",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/655.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
     "megas": [
       {
         "pokemonId": "10293",
@@ -1668,7 +1668,7 @@
           "fire",
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10293.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10293.png"
       }
     ]
   },
@@ -1679,7 +1679,7 @@
       "water",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/658.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
     "megas": [
       {
         "pokemonId": "10294",
@@ -1688,7 +1688,7 @@
           "water",
           "dark"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10294.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10294.png"
       }
     ]
   },
@@ -1699,7 +1699,7 @@
       "water",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10116.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10116.png"
   },
   {
     "pokemonId": "10117",
@@ -1708,7 +1708,7 @@
       "water",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10117.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10117.png"
   },
   {
     "pokemonId": "660",
@@ -1717,7 +1717,7 @@
       "normal",
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/660.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
   },
   {
     "pokemonId": "663",
@@ -1726,7 +1726,7 @@
       "fire",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/663.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
   },
   {
     "pokemonId": "666",
@@ -1735,7 +1735,7 @@
       "bug",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/666.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
   },
   {
     "pokemonId": "670",
@@ -1743,7 +1743,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/670.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
     "megas": [
       {
         "pokemonId": "10296",
@@ -1751,7 +1751,7 @@
         "type": [
           "fairy"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10296.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10296.png"
       }
     ]
   },
@@ -1761,7 +1761,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10061.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10061.png"
   },
   {
     "pokemonId": "671",
@@ -1769,7 +1769,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/671.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
   },
   {
     "pokemonId": "675",
@@ -1778,7 +1778,7 @@
       "fighting",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/675.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
   },
   {
     "pokemonId": "676",
@@ -1786,7 +1786,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/676.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
   },
   {
     "pokemonId": "678",
@@ -1794,7 +1794,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/678.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
     "megas": [
       {
         "pokemonId": "10314",
@@ -1802,7 +1802,7 @@
         "type": [
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10314.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10314.png"
       }
     ]
   },
@@ -1812,7 +1812,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10025.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10025.png",
     "megas": [
       {
         "pokemonId": "10314",
@@ -1820,7 +1820,7 @@
         "type": [
           "psychic"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10314.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10314.png"
       }
     ]
   },
@@ -1831,7 +1831,7 @@
       "steel",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/681.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png"
   },
   {
     "pokemonId": "10026",
@@ -1840,7 +1840,7 @@
       "steel",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10026.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10026.png"
   },
   {
     "pokemonId": "683",
@@ -1848,7 +1848,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/683.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png"
   },
   {
     "pokemonId": "685",
@@ -1856,7 +1856,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/685.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
   },
   {
     "pokemonId": "693",
@@ -1864,7 +1864,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/693.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png"
   },
   {
     "pokemonId": "695",
@@ -1873,7 +1873,7 @@
       "electric",
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/695.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
   },
   {
     "pokemonId": "697",
@@ -1882,7 +1882,7 @@
       "rock",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/697.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   },
   {
     "pokemonId": "699",
@@ -1891,7 +1891,7 @@
       "rock",
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/699.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
   },
   {
     "pokemonId": "700",
@@ -1899,7 +1899,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/700.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
   },
   {
     "pokemonId": "701",
@@ -1908,7 +1908,7 @@
       "fighting",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/701.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
     "megas": [
       {
         "pokemonId": "10300",
@@ -1917,7 +1917,7 @@
           "fighting",
           "flying"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10300.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10300.png"
       }
     ]
   },
@@ -1928,7 +1928,7 @@
       "electric",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/702.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
   },
   {
     "pokemonId": "706",
@@ -1936,7 +1936,7 @@
     "type": [
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/706.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
   },
   {
     "pokemonId": "10242",
@@ -1945,7 +1945,7 @@
       "steel",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10242.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10242.png"
   },
   {
     "pokemonId": "707",
@@ -1954,7 +1954,7 @@
       "steel",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/707.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png"
   },
   {
     "pokemonId": "709",
@@ -1963,7 +1963,7 @@
       "ghost",
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/709.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
   },
   {
     "pokemonId": "711",
@@ -1972,7 +1972,7 @@
       "ghost",
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/711.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png"
   },
   {
     "pokemonId": "713",
@@ -1980,7 +1980,7 @@
     "type": [
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/713.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
   },
   {
     "pokemonId": "10243",
@@ -1989,7 +1989,7 @@
       "ice",
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10243.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10243.png"
   },
   {
     "pokemonId": "715",
@@ -1998,7 +1998,7 @@
       "flying",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/715.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
   },
   {
     "pokemonId": "724",
@@ -2007,7 +2007,7 @@
       "grass",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/724.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png"
   },
   {
     "pokemonId": "10244",
@@ -2016,7 +2016,7 @@
       "grass",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10244.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10244.png"
   },
   {
     "pokemonId": "727",
@@ -2025,7 +2025,7 @@
       "fire",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/727.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png"
   },
   {
     "pokemonId": "730",
@@ -2034,7 +2034,7 @@
       "water",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/730.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
   },
   {
     "pokemonId": "733",
@@ -2043,7 +2043,7 @@
       "normal",
       "flying"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/733.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
   },
   {
     "pokemonId": "740",
@@ -2052,7 +2052,7 @@
       "fighting",
       "ice"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/740.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
     "megas": [
       {
         "pokemonId": "10315",
@@ -2061,7 +2061,7 @@
           "fighting",
           "ice"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10315.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10315.png"
       }
     ]
   },
@@ -2071,7 +2071,7 @@
     "type": [
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/745.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png"
   },
   {
     "pokemonId": "10126",
@@ -2079,7 +2079,7 @@
     "type": [
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10126.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10126.png"
   },
   {
     "pokemonId": "10152",
@@ -2087,7 +2087,7 @@
     "type": [
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10152.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10152.png"
   },
   {
     "pokemonId": "748",
@@ -2096,7 +2096,7 @@
       "poison",
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/748.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
   },
   {
     "pokemonId": "750",
@@ -2104,7 +2104,7 @@
     "type": [
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/750.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
   },
   {
     "pokemonId": "752",
@@ -2113,7 +2113,7 @@
       "water",
       "bug"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/752.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png"
   },
   {
     "pokemonId": "758",
@@ -2122,7 +2122,7 @@
       "poison",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/758.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png"
   },
   {
     "pokemonId": "763",
@@ -2130,7 +2130,7 @@
     "type": [
       "grass"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/763.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
   },
   {
     "pokemonId": "765",
@@ -2139,7 +2139,7 @@
       "normal",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/765.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
   },
   {
     "pokemonId": "766",
@@ -2147,7 +2147,7 @@
     "type": [
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/766.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png"
   },
   {
     "pokemonId": "778",
@@ -2156,7 +2156,7 @@
       "ghost",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/778.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
   },
   {
     "pokemonId": "780",
@@ -2165,7 +2165,7 @@
       "normal",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/780.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
     "megas": [
       {
         "pokemonId": "10302",
@@ -2174,7 +2174,7 @@
           "normal",
           "dragon"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10302.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10302.png"
       }
     ]
   },
@@ -2185,7 +2185,7 @@
       "dragon",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/784.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
   },
   {
     "pokemonId": "10146",
@@ -2194,7 +2194,7 @@
       "dragon",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10146.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10146.png"
   },
   {
     "pokemonId": "823",
@@ -2203,7 +2203,7 @@
       "flying",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/823.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
   },
   {
     "pokemonId": "841",
@@ -2212,7 +2212,7 @@
       "grass",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/841.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
   },
   {
     "pokemonId": "842",
@@ -2221,7 +2221,7 @@
       "grass",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/842.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png"
   },
   {
     "pokemonId": "844",
@@ -2229,7 +2229,7 @@
     "type": [
       "ground"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/844.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
   },
   {
     "pokemonId": "855",
@@ -2237,7 +2237,7 @@
     "type": [
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/855.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png"
   },
   {
     "pokemonId": "858",
@@ -2246,7 +2246,7 @@
       "psychic",
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/858.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png"
   },
   {
     "pokemonId": "866",
@@ -2255,7 +2255,7 @@
       "ice",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/866.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
   },
   {
     "pokemonId": "867",
@@ -2264,7 +2264,7 @@
       "ground",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/867.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
   },
   {
     "pokemonId": "869",
@@ -2272,7 +2272,7 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/869.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
   },
   {
     "pokemonId": "877",
@@ -2281,7 +2281,7 @@
       "electric",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/877.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
   },
   {
     "pokemonId": "887",
@@ -2290,7 +2290,7 @@
       "dragon",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/887.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
   },
   {
     "pokemonId": "899",
@@ -2299,7 +2299,7 @@
       "normal",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/899.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png"
   },
   {
     "pokemonId": "900",
@@ -2308,7 +2308,7 @@
       "bug",
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/900.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png"
   },
   {
     "pokemonId": "902",
@@ -2317,7 +2317,7 @@
       "water",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/902.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
   },
   {
     "pokemonId": "10248",
@@ -2326,7 +2326,7 @@
       "water",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10248.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10248.png"
   },
   {
     "pokemonId": "903",
@@ -2335,7 +2335,7 @@
       "fighting",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/903.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png"
   },
   {
     "pokemonId": "908",
@@ -2344,7 +2344,7 @@
       "grass",
       "dark"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/908.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
   },
   {
     "pokemonId": "911",
@@ -2353,7 +2353,7 @@
       "fire",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/911.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
   },
   {
     "pokemonId": "914",
@@ -2362,7 +2362,7 @@
       "water",
       "fighting"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/914.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
   },
   {
     "pokemonId": "925",
@@ -2370,7 +2370,7 @@
     "type": [
       "normal"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/925.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png"
   },
   {
     "pokemonId": "934",
@@ -2378,7 +2378,7 @@
     "type": [
       "rock"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/934.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
   },
   {
     "pokemonId": "936",
@@ -2387,7 +2387,7 @@
       "fire",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/936.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png"
   },
   {
     "pokemonId": "937",
@@ -2396,7 +2396,7 @@
       "fire",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/937.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png"
   },
   {
     "pokemonId": "939",
@@ -2404,7 +2404,7 @@
     "type": [
       "electric"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/939.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png"
   },
   {
     "pokemonId": "952",
@@ -2413,7 +2413,7 @@
       "grass",
       "fire"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/952.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
     "megas": [
       {
         "pokemonId": "10320",
@@ -2422,7 +2422,7 @@
           "grass",
           "fire"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10320.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10320.png"
       }
     ]
   },
@@ -2432,7 +2432,7 @@
     "type": [
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/956.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
   },
   {
     "pokemonId": "959",
@@ -2441,7 +2441,7 @@
       "fairy",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/959.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
   },
   {
     "pokemonId": "964",
@@ -2449,7 +2449,7 @@
     "type": [
       "water"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/964.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
   },
   {
     "pokemonId": "968",
@@ -2457,7 +2457,7 @@
     "type": [
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/968.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
   },
   {
     "pokemonId": "970",
@@ -2466,7 +2466,7 @@
       "rock",
       "poison"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/970.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
     "megas": [
       {
         "pokemonId": "10321",
@@ -2475,7 +2475,7 @@
           "rock",
           "poison"
         ],
-        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10321.png"
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10321.png"
       }
     ]
   },
@@ -2486,7 +2486,7 @@
       "normal",
       "psychic"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/981.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
   },
   {
     "pokemonId": "983",
@@ -2495,7 +2495,7 @@
       "dark",
       "steel"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/983.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
   },
   {
     "pokemonId": "1013",
@@ -2504,7 +2504,7 @@
       "grass",
       "ghost"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1013.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
   },
   {
     "pokemonId": "1018",
@@ -2513,7 +2513,7 @@
       "steel",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1018.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png"
   },
   {
     "pokemonId": "1019",
@@ -2522,6 +2522,6 @@
       "grass",
       "dragon"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1019.png"
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
   }
 ]
