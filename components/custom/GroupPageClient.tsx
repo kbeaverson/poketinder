@@ -17,7 +17,7 @@ export default function GroupPageClient({ groupId, pokemonPool}: GroupPageClient
         groupId: groupId,
         likes: [],
         superLike: null
-    })
+    });
 
     function handleSwipe(pokemon: LocalPokemon, isLike: boolean) {
         // Ensure we don't add duplicate likes for the same pokemon
@@ -27,7 +27,7 @@ export default function GroupPageClient({ groupId, pokemonPool}: GroupPageClient
         setMember(prev => ({
             ...prev,
             likes: [...prev.likes, [isLike, pokemon]]
-        }))
+        }));
         console.log((isLike ? 'Liked!' : 'Passed!') + member.likes.length);
     }
 
@@ -35,7 +35,7 @@ export default function GroupPageClient({ groupId, pokemonPool}: GroupPageClient
         setMember(prev => ({
             ...prev,
             likes: prev.likes.slice(0, -1)
-        }))
+        }));
         console.log('Undo!' + member.likes.length);
     }
 

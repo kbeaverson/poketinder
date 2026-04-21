@@ -4,6 +4,7 @@ import { nanoid } from "nanoid"
 import { Button } from "../ui/button"
 import { useRouter } from "next/navigation"
 import { type PokemonPoolName } from "@/lib/pools/champions"
+import { useCreateGroup } from "@/hooks/useCreateGroup"
 
 /**
  * Component for creating a new group. When clicked, it generates a unique group ID,
@@ -14,20 +15,17 @@ type CreateGroupButtonProps = {
 }
 
 export default function CreateGroupButton({ poolName = "CHAMPIONS_MA" }: CreateGroupButtonProps) {
+    const { createGroup, loading, error } = useCreateGroup()
     const router = useRouter()
 
     const handleClick = async () => {
-        // Generate a unique group ID
-        const groupId = nanoid()
-
         // Pass the pool as a query parameter
         const query = new URLSearchParams({
             pool: poolName,
         })
 
-        // TODO: Write to backend (async call to create group in database)
-        console.log(`Would write to backend Group ID: ${groupId}`)
-        await new Promise((resolve) => setTimeout(resolve, 1000)) // Simulate async backend call
+        // TODO: Add group naming functionality
+        const groupId = await createGroup('', poolName);
 
         // Navigate to the new group page
         router.push(`/group/${groupId}?${query.toString()}`)
