@@ -7,9 +7,8 @@ import ResultsScreen from "./ResultsScreen";
 import { useGroup } from "@/hooks/useGroup";
 import LoginForm from "./LoginForm";
 import { useUpdateMember } from "@/hooks/useUpdateMember";
-import { Menubar, MenubarMenu, MenubarTrigger } from "../ui/menubar";
 import { Button } from "../ui/button";
-import { CopyIcon, ShareIcon } from "lucide-react";
+import { CopyIcon } from "lucide-react";
 
 type GroupPageClientProps = {
     groupId: string,
@@ -64,10 +63,10 @@ export default function GroupPageClient({ groupId, pokemonPool}: GroupPageClient
                 <div>
                     <div className="px-6 text-center">
                         <h1 className="text-4xl font-bold mb-2">{group.name}</h1>
-                        <div className="flex flex-row justify-center">
+                        <div className="flex flex-row justify-center items-center">
                             <p className="text-sm text-neutral-600">Click to copy the group link to invite friends:</p>
                             <Button 
-                                variant="ghost"
+                                variant="outline"
                                 onClick={() => navigator.clipboard.writeText(window.location.href)}
                             >
                                 <CopyIcon />
