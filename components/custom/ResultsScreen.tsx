@@ -3,6 +3,7 @@
 import { LocalPokemon, Member } from "@/lib/types";
 import { useMemo, useState } from "react";
 import Image from "next/image";
+import { Tooltip, TooltipContent, TooltipTrigger } from "../ui/tooltip";
 
 type ResultsScreenProps = {
     members: Member[];
@@ -60,8 +61,6 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
         () => aggregateResults(members),
         [members]
     );
-    const [hoveredPokemonId, setHoveredPokemonId] = useState<string | null>(null);
-    // Load group results using groupId, e.g. fetch from API or use context
     
     if (sections.length === 0) {
         return (
@@ -90,27 +89,24 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
                     >
                         {results.map(
                             ({ pokemon, likedBy }) => (
-                                <div
-                                    key={pokemon.pokemonId}
-                                    className="relative w-full aspect-square"
-                                    onMouseEnter={() => setHoveredPokemonId(pokemon.pokemonId)}
-                                    onMouseLeave={() => setHoveredPokemonId(null)}
-                                >
-                                    <Image
-                                        src={"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + pokemon.pokemonId + ".png"}
-                                        alt={pokemon.name}
-                                        fill
-                                        sizes="80px"
-                                        className="object-contain"
-                                    />
-
-                                    {/* Hover overlay */}
-                                    {hoveredPokemonId === pokemon.pokemonId && (
-                                        <div className="absolute top-full left-1/2 -translate-x-1/2 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg px-2 py-1 z-10 whitespace-nowrap">
-                                            {pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}: {likedBy.map(m => m.name).join(', ')}
+                                <Tooltip key={pokemon.pokemonId}>
+                                    <TooltipTrigger asChild>
+                                        <div
+                                            className="relative w-full aspect-square"
+                                        >
+                                            <Image
+                                                src={"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + pokemon.pokemonId + ".png"}
+                                                alt={pokemon.name}
+                                                fill
+                                                sizes="80px"
+                                                className="object-contain"
+                                            />
                                         </div>
-                                    )}
-                                </div>
+                                    </TooltipTrigger>
+                                    <TooltipContent>
+                                        {pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}: {likedBy.map(m => m.name).join(', ')}
+                                    </TooltipContent>
+                                </Tooltip>
                             )
                         )}
                     </div>
