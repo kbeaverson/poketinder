@@ -1784,21 +1784,12 @@
   },
   {
     "pokemonId": "681",
-    "name": "aegislash-shield",
+    "name": "aegislash",
     "type": [
       "steel",
       "ghost"
     ],
     "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png"
-  },
-  {
-    "pokemonId": "10026",
-    "name": "aegislash-blade",
-    "type": [
-      "steel",
-      "ghost"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10026.png"
   },
   {
     "pokemonId": "683",
@@ -1925,7 +1916,7 @@
   },
   {
     "pokemonId": "711",
-    "name": "gourgeist-average",
+    "name": "gourgeist",
     "type": [
       "ghost",
       "grass"
@@ -2109,7 +2100,7 @@
   },
   {
     "pokemonId": "778",
-    "name": "mimikyu-disguised",
+    "name": "mimikyu",
     "type": [
       "ghost",
       "fairy"
@@ -2225,7 +2216,7 @@
   },
   {
     "pokemonId": "877",
-    "name": "morpeko-full-belly",
+    "name": "morpeko",
     "type": [
       "electric",
       "dark"
@@ -2315,7 +2306,7 @@
   },
   {
     "pokemonId": "925",
-    "name": "maushold-family-of-four",
+    "name": "maushold",
     "type": [
       "normal"
     ],
