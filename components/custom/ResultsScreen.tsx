@@ -1,9 +1,11 @@
 'use client';
 
-import { LocalPokemon, Member } from "@/lib/types";
+import { LocalPokemon, LocalPokemonType, Member } from "@/lib/types";
 import { useMemo, useState } from "react";
 import Image from "next/image";
 import { Tooltip, TooltipContent, TooltipTrigger } from "../ui/tooltip";
+import { Button } from "../ui/button";
+import { TYPE_COLORS } from "./TypeBadge";
 
 type ResultsScreenProps = {
     members: Member[];
@@ -56,11 +58,30 @@ function aggregateResults(members: Member[]): ScoreSection[] {
         .map(([score, results]) => ({score, results}));
 }
 
+function toggleType(type: LocalPokemonType, prev: Set<LocalPokemonType>): Set<LocalPokemonType> {
+    const newSet = new Set(prev);
+    newSet.has(type) ? newSet.delete(type) : newSet.add(type);
+    return newSet;
+}
+
+
 export default function ResultsScreen({ members }: ResultsScreenProps) {
     const sections = useMemo(
         () => aggregateResults(members),
         [members]
     );
+    const [activeTypes, setActiveTypes] = useState<Set<LocalPokemonType>>(new Set());
+    const filteredSections = useMemo(() => {
+        if (activeTypes.size === 0) return sections;
+
+        return sections.map(section => ({
+            ...section,
+            results: section.results.filter(result => 
+                result.pokemon.type.some(t => activeTypes.has(t))
+            ),
+        }))
+        .filter(section => section.results.length > 0);
+    }, [sections, activeTypes]);
     
     if (sections.length === 0) {
         return (
@@ -73,7 +94,39 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
     return (
         <div className="w-full p-4 space-y-8">
             <h2 className="text-2xl font-bold text-center">This group's likes ↴</h2>
-            {sections.map(({ score, results }) => (
+            {/* Type filter buttons */}
+            <div className="flex gap-2 overflow-x-auto pb-1 items-center">
+                {Object.values(LocalPokemonType).map(type => (
+                    <Button
+                        key={type}
+                        variant={activeTypes.has(type) ? "default" : "outline"}
+                        onClick={() => setActiveTypes(prev => toggleType(type, prev))}
+                        style={
+                            activeTypes.has(type) ? { backgroundColor: TYPE_COLORS[type], borderColor: TYPE_COLORS[type], color: 'white' } : { borderColor: TYPE_COLORS[type]}
+                        }
+                    >
+                        {type.charAt(0).toUpperCase() + type.slice(1)}
+                    </Button>
+                ))}
+                {activeTypes.size > 0 && (
+                    <Button
+                        variant="outline"
+                        onClick={() => setActiveTypes(new Set())}
+                    >
+                        Clear
+                    </Button>
+                )}
+            </div>
+            {filteredSections.length === 0 && (
+                <div className="text-center text-gray-500 py-8">
+                    <p>No liked Pokémon match the selected type(s).</p>
+                    <Button onClick={() => setActiveTypes(new Set())}>
+                        Clear Filter
+                    </Button>
+                </div>
+            )}
+            
+            {filteredSections.map(({ score, results }) => (
                 <section key={score}>
                     {/* Section header */}
                     <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">

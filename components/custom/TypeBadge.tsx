@@ -2,7 +2,7 @@
 
 import { LocalPokemonType } from "@/lib/types";
 
-const TYPE_COLORS: Record<LocalPokemonType, string> = {
+export const TYPE_COLORS: Record<LocalPokemonType, string> = {
     normal: "#A8A878",
     fire: "#F08030",
     water: "#6890F0",
