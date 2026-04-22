@@ -932,30 +932,6 @@
     "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png"
   },
   {
-    "pokemonId": "10013",
-    "name": "castform-sunny",
-    "type": [
-      "fire"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10013.png"
-  },
-  {
-    "pokemonId": "10014",
-    "name": "castform-rainy",
-    "type": [
-      "water"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10014.png"
-  },
-  {
-    "pokemonId": "10015",
-    "name": "castform-snowy",
-    "type": [
-      "ice"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10015.png"
-  },
-  {
     "pokemonId": "354",
     "name": "banette",
     "type": [
@@ -1693,24 +1669,6 @@
     ]
   },
   {
-    "pokemonId": "10116",
-    "name": "greninja-battle-bond",
-    "type": [
-      "water",
-      "dark"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10116.png"
-  },
-  {
-    "pokemonId": "10117",
-    "name": "greninja-ash",
-    "type": [
-      "water",
-      "dark"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10117.png"
-  },
-  {
     "pokemonId": "660",
     "name": "diggersby",
     "type": [
@@ -1743,7 +1701,15 @@
     "type": [
       "fairy"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
+  },
+  {
+    "pokemonId": "10061",
+    "name": "floette-eternal",
+    "type": [
+      "fairy"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10061.png",
     "megas": [
       {
         "pokemonId": "10296",
@@ -1754,14 +1720,6 @@
         "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10296.png"
       }
     ]
-  },
-  {
-    "pokemonId": "10061",
-    "name": "floette-eternal",
-    "type": [
-      "fairy"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10061.png"
   },
   {
     "pokemonId": "671",
@@ -2188,15 +2146,6 @@
     "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
   },
   {
-    "pokemonId": "10146",
-    "name": "kommo-o-totem",
-    "type": [
-      "dragon",
-      "fighting"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10146.png"
-  },
-  {
     "pokemonId": "823",
     "name": "corviknight",
     "type": [
@@ -2445,7 +2394,7 @@
   },
   {
     "pokemonId": "964",
-    "name": "palafin-zero",
+    "name": "palafin",
     "type": [
       "water"
     ],
