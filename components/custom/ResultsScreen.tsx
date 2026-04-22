@@ -157,7 +157,7 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
                                                 />
                                             </div>
                                         </HybridTooltipTrigger>
-                                        <HybridTooltipContent>
+                                        <HybridTooltipContent className="w-auto">
                                             {pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}: {likedBy.map(m => m.name).join(', ')}
                                         </HybridTooltipContent>
                                     </HybridTooltip>
