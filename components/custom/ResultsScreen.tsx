@@ -3,9 +3,9 @@
 import { LocalPokemon, LocalPokemonType, Member } from "@/lib/types";
 import { useMemo, useState } from "react";
 import Image from "next/image";
-import { Tooltip, TooltipContent, TooltipTrigger } from "../ui/tooltip";
 import { Button } from "../ui/button";
 import { TYPE_COLORS } from "./TypeBadge";
+import { HybridTooltip, HybridTooltipContent, HybridTooltipProvider, HybridTooltipTrigger } from "../ui/hybrid-tooltip";
 
 type ResultsScreenProps = {
     members: Member[];
@@ -142,24 +142,26 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
                     >
                         {results.map(
                             ({ pokemon, likedBy }) => (
-                                <Tooltip key={pokemon.pokemonId}>
-                                    <TooltipTrigger asChild>
-                                        <div
-                                            className="relative w-full aspect-square"
-                                        >
-                                            <Image
-                                                src={"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + pokemon.pokemonId + ".png"}
-                                                alt={pokemon.name}
-                                                fill
-                                                sizes="80px"
-                                                className="object-contain"
-                                            />
-                                        </div>
-                                    </TooltipTrigger>
-                                    <TooltipContent>
-                                        {pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}: {likedBy.map(m => m.name).join(', ')}
-                                    </TooltipContent>
-                                </Tooltip>
+                                <HybridTooltipProvider key={pokemon.pokemonId}>
+                                    <HybridTooltip>
+                                        <HybridTooltipTrigger asChild>
+                                            <div
+                                                className="relative w-full aspect-square"
+                                            >
+                                                <Image
+                                                    src={"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + pokemon.pokemonId + ".png"}
+                                                    alt={pokemon.name}
+                                                    fill
+                                                    sizes="80px"
+                                                    className="object-contain"
+                                                />
+                                            </div>
+                                        </HybridTooltipTrigger>
+                                        <HybridTooltipContent>
+                                            {pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}: {likedBy.map(m => m.name).join(', ')}
+                                        </HybridTooltipContent>
+                                    </HybridTooltip>
+                                </HybridTooltipProvider>
                             )
                         )}
                     </div>
