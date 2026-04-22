@@ -110,10 +110,10 @@ export default function SwipeScreen({ pool, memberId, likes, onSwipe, onUndo }: 
         >
             {/* Handle strip */}
             <div
-                className="flex justify-center pt-3 pb-2 cursor-pointer"
+                className="flex flex-col justify-center pt-3 pb-2 cursor-pointer items-center"
                 onClick={() => setIsCollapsed(c => !c)}
             >
-                <div className="w-10 h-1 bg-gray-300 rounded-full"/>
+                <p className="ml-3 text-gray-500 text-sm">{isCollapsed ? "▲" : "▼"}</p>
             </div>
             {/* Swipeable card stack */}
             <div className="flex-1 flex items-center justify-center overflow-hidden">
