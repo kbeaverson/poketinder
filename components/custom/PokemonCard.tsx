@@ -68,7 +68,14 @@ export default function PokemonCard({ pokemon }: { pokemon: LocalPokemon }) {
                     style={{ backfaceVisibility: "hidden", WebkitBackfaceVisibility: "hidden" }}
                 >
                     {hasMegas && (
-                        <div className="absolute top-3 right-3 flex flex-row gap-1.5 z-10">
+                        <div 
+                            className="absolute top-3 right-3 flex flex-row gap-1.5 z-10"
+                            style={{
+                                opacity: isFlipped ? 0 : 1,
+                                visibility: isFlipped ? "hidden" : "visible",
+                                transition: "opacity 0.45s, visibility 0.45s",
+                            }}
+                        >
                             {pokemon.megas!.map((mega) => (
                                 <div 
                                     className="mega-aura"

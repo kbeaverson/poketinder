@@ -19,7 +19,7 @@ export default function SwipeScreen({ pool, memberId, likes, onSwipe, onUndo }: 
     const [startX, setStartX] = useState(0);
     const [dragOffset, setDragOffset] = useState(0);
     const TILT_FACTOR = 20;
-    const SWIPE_THRESHOLD = 150; // Minimum distance in pixels to consider a swipe action
+    const SWIPE_THRESHOLD = 100; // Minimum distance in pixels to consider a swipe action
     const WINDOW_SIZE = 5; // Number of cards to keep in the DOM for smooth swiping
     const swipeQueue = useMemo(
         () => pool.filter(p => !likes.some(l => l[1].pokemonId === p.pokemonId)),
@@ -63,6 +63,11 @@ export default function SwipeScreen({ pool, memberId, likes, onSwipe, onUndo }: 
         } else {
             setDragOffset(0); // Snap back to original position
         }
+    }
+
+    function handlePointerCancel() {
+        setIsDragging(false);
+        setDragOffset(0); // Snap back to original position
     }
 
     const triggerLike = useCallback(() => {
@@ -127,10 +132,12 @@ export default function SwipeScreen({ pool, memberId, likes, onSwipe, onUndo }: 
                                             : `scale(${0.85 - stackPos * 0.02}) translateY(${-stackPos * 8}px)`,
                                         transition: isTop && isDragging ? "none" : "transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94)",
                                         cursor: isTop ? "grab" : "default",
+                                        touchAction: isTop ? "none" : "auto",
                                     }}
                                     onPointerDown={isTop ? handlePointerDown : undefined}
                                     onPointerMove={isTop ? handlePointerMove : undefined}
                                     onPointerUp={isTop ? handlePointerUp : undefined}
+                                    onPointerCancel={isTop ? handlePointerCancel : undefined}
                                 >
                                     <PokemonCard pokemon={pokemon}/>
                                 </div>
