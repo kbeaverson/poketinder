@@ -12,9 +12,10 @@ import { useCreateGroup } from "@/hooks/useCreateGroup"
  */
 type CreateGroupButtonProps = {
     poolName?: PokemonPoolName
+    groupName?: string
 }
 
-export default function CreateGroupButton({ poolName = "CHAMPIONS_MA" }: CreateGroupButtonProps) {
+export default function CreateGroupButton({ poolName = "CHAMPIONS_MA", groupName = "Untitled" }: CreateGroupButtonProps) {
     const { createGroup, loading, error } = useCreateGroup()
     const router = useRouter()
 
@@ -25,7 +26,7 @@ export default function CreateGroupButton({ poolName = "CHAMPIONS_MA" }: CreateG
         })
 
         // TODO: Add group naming functionality
-        const groupId = await createGroup('', poolName);
+        const groupId = await createGroup(groupName, poolName);
 
         // Navigate to the new group page
         router.push(`/group/${groupId}?${query.toString()}`)

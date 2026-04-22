@@ -98,7 +98,7 @@ export default function SwipeScreen({ pool, memberId, likes, onSwipe, onUndo }: 
         <div
             className="fixed bottom-0 left-0 right-0 bg-white rounded-t-2xl shadow-2xl flex flex-col"
             style={{
-                height: "90vh",
+                height: "85vh",
                 transform: isCollapsed ? "translateY(calc(100% - 60px))" : "translateY(0)",
                 transition: "transform 0.4s cubic-bezier(0.32, 0.72, 0, 1)",
             }}

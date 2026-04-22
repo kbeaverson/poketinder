@@ -31,7 +31,7 @@ export function mapMemberRow(row: Database["public"]["Tables"]["members"]["Row"]
     };
 }
 
-function inflateLikes(raw: unknown, pool: LocalPokemon[]): [boolean, LocalPokemon][] {
+export function inflateLikes(raw: unknown, pool: LocalPokemon[]): [boolean, LocalPokemon][] {
     if (!raw || !Array.isArray(raw)) { return []; }
 
     return (raw as StoredLike[]).flatMap(({pokemonId, liked}) => {

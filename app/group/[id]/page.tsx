@@ -22,14 +22,7 @@ export default async function GroupPage({ params, searchParams }: Props) {
     const pokemonPool: LocalPokemon[] = await import(`@/public/lib/pools/${poolName.toLowerCase()}.json`).then(m => m.default)
 
     return (
-        <div className="self-center justify-around">
-            <h1>Group ID: { id }</h1>
-            {/* Fetch and display group details using the ID */}
-            <p>Pool Name: { poolName }</p>
-            {/* Display Pokémon from the pool */}
-            {/* {pokemonPool.map((pokemon) => (
-                <PokemonCard key={pokemon.pokemonId} pokemon={pokemon} />
-            ))} */}
+        <div className="w-full py-6">
             <GroupPageClient groupId={id} pokemonPool={pokemonPool} />
         </div>
     )

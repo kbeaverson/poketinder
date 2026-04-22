@@ -5,7 +5,7 @@ import { useMemo, useState } from "react";
 import Image from "next/image";
 
 type ResultsScreenProps = {
-    members: Member[]
+    members: Member[];
 };
 
 type PokemonResult = {
@@ -66,13 +66,14 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
     if (sections.length === 0) {
         return (
             <div className="p-6 text-center text-gray-500">
-                No results yet. Start swiping to see your matches here!
+                No results for this group yet. Get swiping to see some results here!
             </div>
         )
     }
 
     return (
-        <div className="w-full max-w-2xl mx-auto p-4 space-y-8">
+        <div className="w-full p-4 space-y-8">
+            <h2 className="text-2xl font-bold text-center">This group's likes ↴</h2>
             {sections.map(({ score, results }) => (
                 <section key={score}>
                     {/* Section header */}
@@ -84,7 +85,7 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
                     <div 
                         className="grid gap-3"
                         style={{
-                            gridTemplateColumns: "repeat(auto-fill, minmax(80px, 1fr))"
+                            gridTemplateColumns: "repeat(auto-fill, minmax(96px, 1fr))"
                         }}
                     >
                         {results.map(
@@ -105,7 +106,7 @@ export default function ResultsScreen({ members }: ResultsScreenProps) {
 
                                     {/* Hover overlay */}
                                     {hoveredPokemonId === pokemon.pokemonId && (
-                                        <div className="absolute top-full left-1/2 -translate-x-1/2 mt-1 bg-white border boder-gray-200 rounded-lg shadow-lg px-2 py-1 z-10 whitespace-nowrap">
+                                        <div className="absolute top-full left-1/2 -translate-x-1/2 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg px-2 py-1 z-10 whitespace-nowrap">
                                             {pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}: {likedBy.map(m => m.name).join(', ')}
                                         </div>
                                     )}
